@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Nirmal Dahal</h1>
-<h3 align="center">The <.sh>ed journey through the tech.</h3>
 
 - 🌱 I’m currently learning **DevOps.**
 
